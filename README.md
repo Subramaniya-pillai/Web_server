@@ -49,4 +49,11 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-## RESULT:
+### server side ouput 
+![githublogo](./serverside.png)
+
+![githublogo](./clientside.png)
+
+## RESULT: 
+hence webserver has created
+
