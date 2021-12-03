@@ -49,4 +49,6 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
+### server side ouput 
+![githublogo](./serverside.png)
 ## RESULT:
